@@ -69,4 +69,4 @@ copyright: Copyright &copy; 2016 - 2020 Martin Donath
 plugins:
   - search
   - tags
-  - mkdocs-open-in-new-tab
+  - open-in-new-tab
